@@ -1,0 +1,1 @@
+﻿package {	public class Game	{		public var Player1Turn:Boolean = true;		public var EnableDice:Boolean = false;		public var DefeseMode:Boolean = false;		public var GameMode:String = "NamesInput";		private var player1Starts:Boolean;	}}
